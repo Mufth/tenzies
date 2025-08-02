@@ -1,6 +1,7 @@
 {
-  "name": "Scrim-s06j03c",
-  "description": "https://scrimba.com/frontend-path-c0j/~06lz",
+  "name": "tenzies",
+  "version": "1.0.0",
+  "description": "tenzies game built with React",
   "scripts": {
     "start": "vite",
     "dev": "vite",
